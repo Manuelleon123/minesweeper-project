@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Minesweeper
 
-> One paragraph statement about the project.
+this is my first individual project in this hobby in which I'm just starting out
 
 ![screenshot](./app_screenshot.png)
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://manuelleon123.github.io/minesweeper-project/)
 
 
 ## Getting Started
