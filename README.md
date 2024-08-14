@@ -4,7 +4,7 @@
 
 this is my first individual project in this hobby in which I'm just starting out
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Screenshot_1.png)
 
 Additional description about the project and its features.
 
@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Manuelleon123/minesweeper-project/issues).
 
 ## Show your support
 
